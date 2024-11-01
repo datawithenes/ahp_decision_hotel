@@ -1,5 +1,5 @@
 # ahp_decision_hotel
-AHP Kullanarak Otel seçimi
+Analitik Hiyerarşi Prosesi Kullanarak Tatil yapılacak otel seçimi 
 
 AHP ile örnek bir isimsiz uygulama (Sheet 1)
 AHP ile tatil yapılacak otele karar verilmesi  (Sheet 2)
